@@ -1,0 +1,24 @@
+{
+  "name": "ckeditor5-build-nhk-cms",
+  "version": "1.0.0",
+  "description": "Custom ckeditor for NHK cms",
+  "main": "editor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieu-brain/ckeditor5-build-nhk-cms.git"
+  },
+  "keywords": [
+    "ckeditor5",
+    "nuxt",
+    "javascript"
+  ],
+  "author": "Nguyen Ngoc Hieu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hieu-brain/ckeditor5-build-nhk-cms/issues"
+  },
+  "homepage": "https://github.com/hieu-brain/ckeditor5-build-nhk-cms#readme"
+}
